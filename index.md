@@ -5,7 +5,7 @@
 ### Personal Projects 
 
 [3D Printer](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Render2.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
