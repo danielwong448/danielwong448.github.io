@@ -15,7 +15,7 @@ The first piece of the design was the steel frame weldment, which was designed t
 While most 3D printers both commercial and consumer level utilize aluminum extrusions for their frames, I was unable to find a reasonable quote for the necessary aluminum extrusion I needed. I had coincidentally been teaching myself to TIG weld at the time, and decided a steel frame for the printer would be a suitable first project. Despite low quality welds, adequate weld penetration was acheived in most joints, yielding a very strong and rigid frame; a bit overkill for this project.
 
 <img src="images/IMG_1154.JPG?raw=true"/>
-<img src="images/IMG_1156.JPG?raw=true"/>
+<img src="images/IMG_1156.jpg?raw=true"/>
 
 Linear rail mounts for the Y-axis were created from scrap 6MM aluminum plate from a school project, they were cut using a jigsaw and sanded to dimension
 
