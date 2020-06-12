@@ -1,31 +1,24 @@
-## This can be your internal website page / project page
+## COREXY FDM 3D Printer
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Background:** Since the recent rise of consumer level 3D printers, I have always wanted one of my own. However high costs had dissuaded me from purchasing one at the time. Over time consumer level 3D printers have gotten exponentially cheaper, with decent models under $300. I considered purchasing one, but did not like the build quality and kinematics style of these lower end models; therefore I decided to build my own.
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+### 1. Design Constraints and Criteria
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+For my purposes, I wanted a 3D printer with a reasonable build capacity, good dimensional accuracy, compact design, and to be fully enclosed/self contained. I set my target budget at ~$200, but this was surpassed, unsurprisingly. As I had no access to a 3D printer, all parts but one were designed to be manufactured from either steel, aluminum, or raw plastic.
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+### 2. Design
 
-### 2. Assess assumptions on which statistical inference will be based
+The first piece of the design was the steel frame weldment, which was designed to constrain 300MM linear rods for the X,Y,Z axis, as well as act as a frame for the enclosure. Utilizing 'COREXY' kinematics, I designed mounts for the X and Y axis motors, pulleyes, and mounts for their linear motion assemblies. The moving Z-axis assembly carries the print bed surface up and down, and was also designed to operate on linear rods, with a square thread lead screw driving its motion. Miscallaneous components such as the extruder mount, electronics mounting, and hot-end mount were designed as manufacturing progress was made.
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+### 3. Manufacturing
 
-### 3. Support the selection of appropriate statistical tools and techniques
+While most 3D printers both commercial and consumer level utilize aluminum extrusions for their frames, I was unable to find a reasonable quote for the necessary aluminum extrusion I needed. I had coincidentally been teaching myself to TIG weld at the time, and decided a steel frame for the printer would be a suitable first project. Despite low quality welds, adequate weld penetration was acheived in most joints, yielding a very strong and rigid frame; a bit overkill for this project.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/IMG_1154.JPG?raw=true"/>
+<img src="images/IMG_1159.JPG?raw=true"/>
 
-### 4. Provide a basis for further data collection through surveys or experiments
+Linear rail mounts for the Y-axis were created from scrap 6MM aluminum plate from a school project, they were cut using a jigsaw and sanded to dimension
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### 4. Results
+
