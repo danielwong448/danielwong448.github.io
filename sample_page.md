@@ -15,10 +15,56 @@ The first piece of the design was the steel frame weldment, which was designed t
 While most 3D printers both commercial and consumer level utilize aluminum extrusions for their frames, I was unable to find a reasonable quote for the necessary aluminum extrusion I needed. I had coincidentally been teaching myself to TIG weld at the time, and decided a steel frame for the printer would be a suitable first project. Despite low quality welds, adequate weld penetration was acheived in most joints, yielding a very strong and rigid frame; a bit overkill for this project.
 
 <img src="images/IMG_1154.JPG?raw=true"/>
+
 <img src="images/IMG_1156.jpg?raw=true"/>
 
-Linear rail mounts for the Y-axis were created from scrap 6MM aluminum plate from a school project, they were cut using a jigsaw and sanded to dimension
+Linear rail mounts for the Y-axis were created from scrap 6MM aluminum plate from a school project, they were cut using a jigsaw and sanded to dimension.
 
+<img src="images/IMG_2645.JPG?raw=true"/>
+
+<img src="images/IMG_2651.JPG?raw=true"/>
+
+Mounts for the two NEMA17 bipolar stepper motors were fabricated from 1/8" aluminum plate, also recycled from a school project. The pictured brackets are actually a second version, there were 3 bracket designs, with the current used design placing the motors outside of the frame.
+
+<img src="images/IMG_3028.JPG?raw=true"/>
+
+Y-axis rails were mounted and adjusted to be square with the frame. Motors, pulleys, and 3D printed X-Y axis joint pieces are all assembled to allow testing of the X-Y motion under power. The motors are driven by A4988 stepper drivers on a RAMPS 1.4 board with an Arduino Mega 2560. The carriage moved smoothly in the X and Y directions.
+
+<img src="images/IMG_3516.JPG?raw=true"/>
+
+A Z-axis carriage was designed using a sheet metal bend of 16GA stainless steel from a scrapped dishwasher, linear bearing mounts were fabricated from vinyl garden trim and mounted to the carriage.
+
+<img src="images/IMG_3334.JPG?raw=true"/>
+
+1/2" diameter aluminum bar stock was recycled from a school project to be cut, drilled, and tapped for the Z-axis linear rod mounts. The complete mounted Z-axis and print bed is also seen below.
+
+<img src="images/IMG_3352.JPG?raw=true"/>
+
+<img src="images/IMG_3362.JPG?raw=true"/>
+
+A mounting plate for the electronics and 400W power supply was designed and fabricated from 1/4" plexiglass sheet
+
+<img src="images/IMG_3378.JPG?raw=true"/>
+
+Endstops for the X,Y,Z axis were attached at various points of the frame, as well as the hot end of the 3D printer mounted to the X-axis carriage.
+
+<img src="images/IMG_3377.JPG?raw=true"/>
+
+Wiring of all components was completed, including thermistors, heated bed power supply, motor wiring.
+
+<img src="images/IMG_3411.JPG?raw=true"/>
+
+The machine was now printing, albeit with some flaws due to a faulty thermistor causing heating fluctuations. The first prints were parts which would make up a new X-axis carriage, as the aluminum one had many loose parts and excessive weight.
+
+<img src="images/IMG_3459.JPG?raw=true"/>
+
+Following some adjustments to the printer in both software and hardware, the printer was now printing very well, producing parts of very good dimensional accuracy. The printer is seen printing the cross section of a model in this photo.
+
+<img src="images/IMG_3517.JPG?raw=true"/>
+
+The first two panels of the enclosure were cut from 1/4" plexiglass and fitted to the sides of the printer.
+
+<img src="images/IMG_3476.JPG?raw=true"/>
 
 ### 4. Results
 
