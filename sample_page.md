@@ -58,15 +58,31 @@ The machine was now printing, albeit with some flaws due to a faulty thermistor 
 
 <img src="images/IMG_3459.JPG?raw=true"/>
 
-Following some adjustments to the printer in both software and hardware, the printer was now printing very well, producing parts of very good dimensional accuracy. The printer is seen printing the cross section of a model in this photo.
-
-<img src="images/IMG_3517.JPG?raw=true"/>
-
 The first two panels of the enclosure were cut from 1/4" plexiglass and fitted to the sides of the printer.
 
 <img src="images/IMG_3476.JPG?raw=true"/>
 
+Although the current Z-Axis assembly was adequately rigid for printing, a new Z-Axis was designed and fabricated from aluminum square tube and plexiglass. This assembly was much more rigid and had a more finished look.
 
+<img src="images/IMG_3525.JPG?raw=true"/>
+
+While changing out the Z-Axis assembly, the entire steel frame was sanded and painted. The newly installed parts are seen here.
+
+<img src="images/IMG_3553.JPG?raw=true"/>
+
+Lower enclosure panels were CNC cut from plexiglass sheet to hide the electronics and house a fan and various I/O.
+
+<img src="images/IMG_3865.JPG?raw=true"/>
+
+The lower panels were installed, along with a cable drag chain to better organize the wiring. A thin stainless steel sheet cover was installed on the rear of the printer.
+
+<img src="images/IMG_3875.JPG?raw=true"/>
 
 ### 4. Results
+
+After more fine tuning and troubleshooting, the 3D printer produces very good results with great consistency. The printer has now been through approximately over 200 hours of printing and ~8 lbs of plastic filament with no failures. Some examples are seen below.
+
+<img src="images/IMG_3722.JPG?raw=true"/>
+<img src="images/IMG_3615.JPG?raw=true"/>
+<img src="images/IMG_3687.JPG?raw=true"/>
 
