@@ -1,6 +1,6 @@
 ## COREXY FDM 3D Printer
 
-**Background:** Since the recent rise of consumer level 3D printers, I have always wanted one of my own. However high costs had dissuaded me from purchasing one at the time. Over time consumer level 3D printers have gotten exponentially cheaper, with decent models under $300. I considered purchasing one, but did not like the build quality and kinematics style of these lower end models; therefore I decided to build my own.
+**Background:** Since the recent rise of consumer level 3D printers, I have always wanted one of my own. I considered purchasing one, but did not like the build quality and kinematics style of the more affordable models so I decided to build my own.
 
 ### 1. Design Constraints and Criteria
 
@@ -65,6 +65,8 @@ Following some adjustments to the printer in both software and hardware, the pri
 The first two panels of the enclosure were cut from 1/4" plexiglass and fitted to the sides of the printer.
 
 <img src="images/IMG_3476.JPG?raw=true"/>
+
+
 
 ### 4. Results
 
