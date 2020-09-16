@@ -10,11 +10,11 @@
 ---
 
 ['MPCNC' CNC Router](/CNC)
-[<img src="images/Render.JPG?raw=true"/>](/sample_page)
+[<img src="images/IMG_3746.JPG?raw=true"/>](/CNC)
 
 ---
-[1990 BMW E30](/pdf/sample_presentation.pdf)
-<img src="images/IMG_9376.JPG?raw=true"/>
+[1990 BMW E30](/E30)
+[<img src="images/IMG_9376.JPG?raw=true"/>](/E30)
 
 ---
 
