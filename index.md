@@ -10,12 +10,12 @@
 
 ---
 
-  ['MPCNC' CNC Router](/CNC)
+&nbsp;&nbsp;&nbsp; ['MPCNC' CNC Router](/CNC)
 
 [<img src="images/IMG_3746.JPG?raw=true"/>](/CNC)
 
 ---
-  [1990 BMW E30](/E30)
+&nbsp;&nbsp;&nbsp; [1990 BMW E30](/E30)
 
 [<img src="images/IMG_9376.JPG?raw=true"/>](/E30)
 
@@ -23,13 +23,13 @@
 
 ### School Projects
 
-  [Mechatronics Design - Autonomous Omnidirectional Robot](http://example.com/)
+&nbsp;&nbsp;&nbsp; [Mechatronics Design - Autonomous Omnidirectional Robot](http://example.com/)
 
 <img src="images/IMG_2974.jpg?raw=true"/>
 
 ---
 
-  [Machine Design - Box Lifting Robot](http://example.com/)
+&nbsp;&nbsp;&nbsp; [Machine Design - Box Lifting Robot](http://example.com/)
 
 <img src="images/Render w pulley 2.JPG?raw=true"/>
 
