@@ -4,7 +4,7 @@
 
 ### Personal Projects 
 
-[# 3D Printer](/sample_page)
+#[3D Printer](/sample_page)
 
 [<img src="images/Render.JPG?raw=true"/>](/sample_page)
 
