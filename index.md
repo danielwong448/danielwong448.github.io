@@ -5,9 +5,7 @@
 ### Personal Projects 
 
 [**3D Printer**](/sample_page)
-<a href=/sample_page>
-<img src="images/Render.JPG?raw=true"/>
-  </a>
+[<img src="images/Render.JPG?raw=true"/>](/sample_page)
 
 ---
 [**1990 BMW E30**](/pdf/sample_presentation.pdf)
