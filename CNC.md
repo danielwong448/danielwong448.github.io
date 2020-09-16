@@ -10,7 +10,7 @@ The 3D printed parts total to ~2.2 kg of plastic filament and took ~120 hours. P
 
 The large part seen in this photo took ~20 hours to print and weighs over 1 lb
 
-<img src="images/IMG_3692.jpg?raw=true"  width="40%"/>
+<img src="images/IMG_3692.jpg?raw=true"  width="50%"/>
 
 <img src="images/IMG_3721.JPG?raw=true"  width="40%"/>
 
