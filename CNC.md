@@ -15,18 +15,30 @@ The large part seen in this photo took ~20 hours to print and weighs over 1 lb
 
 ### Assembly
 
+Assembly of the CNC was straightforward, mostly comprising of fastening printed parts to steel tubing, squaring the rails, and installing electronics/wiring.
+The Z-Axis of the CNC to which the router is mounted is seen in this photo:
+<img src="images/IMG_3706.JPG?raw=true"  width="60%"/>
 
+The rails on which the X and Y bearings ride on are seen mounted and squared on a board of 3/4" MDF. A simple plywood & plexiglass enclosure was built to house the CNC to contain debris and reduce noise.
+<img src="images/IMG_3703.JPG?raw=true"  width="60%"/>
 
-### 3. Manufacturing
+This photo shows the finished CNC without the router mounted, as well as the sliding plexiglass shielding on the enclosure.
+<img src="images/IMG_3734.JPG?raw=true"  width="60%"/>
 
-While most 3D printers both commercial and consumer level utilize aluminum extrusions for their frames, I was unable to find a reasonable quote for the necessary aluminum extrusion I needed. I had coincidentally been teaching myself to TIG weld at the time, and decided a steel frame for the printer would be a suitable first project. Despite low quality welds, adequate weld penetration was acheived in most joints, yielding a very strong and rigid frame; a bit overkill for this project.
+Finally, the CNC is completed and test cuts were performed in soft materials with good results. The CNC is controlled by an Arduino UNO with a CNC shield and DRV8825 stepper drivers. Nema 17 stepper motors were taken from the 3D printer to drive the CNC's motion.
+<img src="images/IMG_3744.JPG?raw=true"  width="60%"/>
 
-<img src="images/IMG_1154.JPG?raw=true"  width="60%"/>
+### Results
 
-<img src="images/IMG_1156.jpg?raw=true"  width="60%"/>
+After overcoming the learning curve of CAM programming and the challenges of using a very underpowered and flimsy machine, I was able to acheive reasonable results using various HSM strategies such as trichodial milling and testing approriate feeds, speeds, and chipload. 
 
-Linear rail mounts for the Y-axis were created from scrap 6MM aluminum plate from a school project, they were cut using a jigsaw and sanded to dimension.
+1/4" Birch Plywood Finger Join Box
+<img src="images/IMG_3930.JPG?raw=true"  width="60%"/>
+<img src="images/IMG_3932.JPG?raw=true"  width="60%"/>
+1/4" Plexiglass Desk Speaker Stand
+<img src="images/IMG_3846.JPG?raw=true"  width="60%"/>
+<img src="images/IMG_3844.JPG?raw=true"  width="60%"/>
+1/4" 6061 Aluminum Bottle Opener
+<img src="images/IMG_3837.JPG?raw=true"  width="60%"/>
+<img src="images/IMG_3877.JPG?raw=true"  width="60%"/>
 
-<img src="images/IMG_2645.JPG?raw=true"  width="60%"/>
-
-<img src="images/IMG_2651.JPG?raw=true"  width="60%"/>
