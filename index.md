@@ -15,24 +15,18 @@
 [<img src="images/IMG_3746.JPG?raw=true"/>](/CNC)
 
 ---
-[1990 BMW E30](/E30)
-
-[<img src="images/IMG_9376.JPG?raw=true"/>](/E30)
-
----
 
 ### School Projects
 
-[Mechatronics Design - Autonomous Omnidirectional Robot](http://example.com/)
+[Machine Design - Box Lifting Robot](/machinedesign)
 
-<img src="images/IMG_2974.jpg?raw=true"/>
+[<img src="images/Render w pulley 2.JPG?raw=true"/>](/machinedesign)
 
 ---
 
-[Machine Design - Box Lifting Robot](http://example.com/)
+[Mechatronics Design - Autonomous Omnidirectional Robot](/mechatronicsdesign)
 
-<img src="images/Render w pulley 2.JPG?raw=true"/>
-
+[<img src="images/IMG_2974.jpg?raw=true"/>](/mechatronicsdesign)
 
 ---
 
