@@ -37,6 +37,9 @@ Finally, the CNC is completed and test cuts were performed in soft materials wit
 
 After overcoming the learning curve of CAM programming and the challenges of using a very underpowered and flimsy machine, I was able to acheive reasonable results using various HSM strategies such as trichodial milling and testing approriate feeds, speeds, and chipload. 
 
+A 2D adaptive pocketing operation in 6061 aluminum is seen in this video:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NXgBZg72Ox4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 **1/4" Birch Plywood Finger Join Box**
 
 <img src="images/IMG_3930.JPG?raw=true"  width="60%"/>
