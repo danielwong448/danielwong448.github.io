@@ -43,6 +43,10 @@ A 2D adaptive pocketing operation in 6061 aluminum is seen in this video:
   <iframe src="https://www.youtube.com/embed/NXgBZg72Ox4" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/enMumwvLAug" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
 **1/4" Birch Plywood Finger Join Box**
 
 <img src="images/IMG_3930.JPG?raw=true"  width="60%"/>
