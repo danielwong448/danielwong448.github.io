@@ -30,7 +30,7 @@ Mounts for the two NEMA17 bipolar stepper motors were fabricated from 1/8" alumi
 
 Y-axis rails were mounted and adjusted to be square with the frame. Motors, pulleys, and 3D printed X-Y axis joint pieces are all assembled to allow testing of the X-Y motion under power. The motors are driven by A4988 stepper drivers on a RAMPS 1.4 board with an Arduino Mega 2560. The carriage moved smoothly in the X and Y directions.
 
-<img src="images/IMG_3516.JPG?raw=true"  width="60%"/>
+<img src="images/IMG_3516.PNG?raw=true"  width="60%"/>
 
 A Z-axis carriage was designed using a sheet metal bend of 16GA stainless steel from a scrapped dishwasher, linear bearing mounts were fabricated from vinyl garden trim and mounted to the carriage.
 
