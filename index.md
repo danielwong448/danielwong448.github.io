@@ -6,7 +6,7 @@
 
 [3D Printer](/3Dprinter)
 
-[<img src="images/Render.JPG?raw=true"/>](/3Dprinter)
+[<img src="images/4248.JPG?raw=true"/>](/3Dprinter)
 
 ---
 
