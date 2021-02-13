@@ -9,6 +9,7 @@ The design uses all aluminum parts, with basic 1/8" plate for the top and bottom
 <img src="images/IMG_2987.JPG?raw=true"  width="40%"/>
 
 This cross section view of the designed wheel adaptors show how they mount on the keyed shaft using a set screw. These were turned from round stock on a manual lathe.
+
 <img src="images/CrossSectionRender.JPG?raw=true"  width="40%"/>
 
 ### Finished Design
@@ -17,4 +18,4 @@ Although this project could not be completed, it was a good learning experience 
 
 <img src="images/IMG_Render.JPG?raw=true"  width="60%"/>
 
-<img src="images/IMG_2977.JPG?raw=true"  width="60%"/>
+<img src="images/IMG_2977.jpg?raw=true"  width="60%"/>
