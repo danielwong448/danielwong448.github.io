@@ -6,7 +6,7 @@
 
 Three DC motors (open loop) were each driven by an electronic speed controller, each for a specific degree of freedom. A pulse width modulation signal was sent by an Arduino and was used to set the speed, as well as ramp speed in controlling the motion of the machine. 
 
-<img src="images/IMG_3969.JPG?raw=true"  width="40%"/>
+<img src="images/IMG_3969.PNG?raw=true"  width="40%"/>
 
 ### Working Prototype
 
