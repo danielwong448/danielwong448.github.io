@@ -8,11 +8,11 @@ For my purposes, I wanted a 3D printer with a reasonable build capacity, good di
 
 ### 2. Design
 
-The first piece of the design was the steel frame weldment, which was designed to constrain 300MM linear rods for the X,Y,Z axis, as well as act as a frame for the enclosure. Utilizing 'COREXY' kinematics, I designed mounts for the X and Y axis motors, pulleyes, and mounts for their linear motion assemblies. The moving Z-axis assembly carries the print bed surface up and down, and was also designed to operate on linear rods, with a square thread lead screw driving its motion. Miscallaneous components such as the extruder mount, electronics mounting, and hot-end mount were designed as manufacturing progress was made.
+The first piece of the design was the steel frame weldment, which was designed to constrain linear rods for the X,Y,Z axis, as well as act as a frame for the enclosure. Utilizing 'COREXY' kinematics, I designed mounts for the X and Y axis motors, pulleyes, and mounts for their linear motion assemblies. The moving Z-axis assembly carries the print bed surface up and down, and was also designed to operate on linear rods, with a square thread lead screw driving its motion. Miscallaneous components such as the extruder mount, electronics mounting, and hot-end mount were designed as manufacturing progress was made.
 
 ### 3. Manufacturing
 
-While most 3D printers both commercial and consumer level utilize aluminum extrusions for their frames, I was unable to find a reasonable quote for the necessary aluminum extrusion I needed. I had coincidentally been teaching myself to TIG weld at the time, and decided a steel frame for the printer would be a suitable first project. Despite low quality welds, adequate weld penetration was acheived in most joints, yielding a very strong and rigid frame; a bit overkill for this project.
+While most 3D printers both commercial and consumer level utilize aluminum extrusions for their frames, I was unable to find a reasonable quote for the necessary aluminum extrusion I needed. I had coincidentally been teaching myself to TIG weld at the time, and decided a steel frame for the printer would be a suitable first project. Despite low quality welds, adequate weld penetration was acheived in most joints, yielding a very strong and rigid frame; a bit overkill for this project. I have also yet to see any commercial or hobby built 3D printer anywhere made from steel tubing, so this is truly one of a kind.
 
 <img src="images/IMG_1154.JPG?raw=true"  width="60%"/>
 
@@ -77,6 +77,22 @@ Lower enclosure panels were CNC cut from plexiglass sheet to hide the electronic
 The lower panels were installed, along with a cable drag chain to better organize the wiring. A thin stainless steel sheet cover was installed on the rear of the printer.
 
 <img src="images/IMG_3875.JPG?raw=true"  width="60%"/>
+
+Although long overdue, the electrical components were mounted to a single plexiglass sheet and wires were better organized,
+
+<img src="images/IMG_4217.JPG?raw=true"  width="60%"/>
+
+Since my original intentions for this machine were to be able to print ABS plastic, the final enclosing panels were designed and fitted. The printer is now fully enclosed making it quieter, and heating within to ~45 deg. celcius ambient air temperature.
+
+<img src="images/IMG_4248.JPG?raw=true"  width="60%"/>
+
+<img src="images/IMG_4251.JPG?raw=true"  width="60%"/>
+
+<img src="images/IMG_4262.JPG?raw=true"  width="60%"/>
+
+The original COREXY pulley system had two belts running across the front of the printer, hindering accessibility. These were moved to the rear of the printer by redesinging the belt paths and redesigning motor mounts with integrated pulleys. The new design is shown here, works great so far.
+
+<img src="images/IMG_4304.JPG?raw=true"  width="60%"/>
 
 ### 4. Results
 
