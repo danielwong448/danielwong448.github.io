@@ -10,6 +10,10 @@ For my purposes, I wanted a 3D printer with a reasonable build capacity, good di
 
 The first piece of the design was the steel frame weldment, which was designed to constrain linear rods for the X,Y,Z axis, as well as act as a frame for the enclosure. Utilizing 'COREXY' kinematics, I designed mounts for the X and Y axis motors, pulleyes, and mounts for their linear motion assemblies. The moving Z-axis assembly carries the print bed surface up and down, and was also designed to operate on linear rods, with a square thread lead screw driving its motion. Miscallaneous components such as the extruder mount, electronics mounting, and hot-end mount were designed as manufacturing progress was made.
 
+All main components were designed and modelled using Solidworks to ensure correct fitment and dimensions. Subsequent part drawings were created for later manufacturing as needed. Some trivial or insignificant components and modifications were omitted from the final assembly, as they did not affect the design process directly. 
+
+<img src="images/IMG_4248.jpg?raw=true"  width="60%"/>
+
 ### 3. Manufacturing
 
 While most 3D printers both commercial and consumer level utilize aluminum extrusions for their frames, I was unable to find a reasonable quote for the necessary aluminum extrusion I needed. I had coincidentally been teaching myself to TIG weld at the time, and decided a steel frame for the printer would be a suitable first project. Despite low quality welds, adequate weld penetration was acheived in most joints, yielding a very strong and rigid frame; a bit overkill for this project. I have also yet to see any commercial or hobby built 3D printer anywhere made from steel tubing, so this is truly one of a kind.
